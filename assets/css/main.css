@@ -24,7 +24,7 @@
 	}
 
 	body {
-		line-height: 1;
+		line-height: 0.8;
 	}
 
 	ol, ul {
@@ -126,11 +126,11 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #414f57;
+		color: #f3f3f3;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
-		line-height: 2;
+		line-height: 1.4;
 		letter-spacing: 0.2em;
 		text-transform: uppercase;
 	}
@@ -173,7 +173,7 @@
 		}
 
 	strong, b {
-		color: #313f47;
+		color: #f3f3f3;
 	}
 
 	em, i {
@@ -185,8 +185,8 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #313f47;
-		line-height: 1.5;
+		color: #f3f3f3;
+		line-height: 1em;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -196,29 +196,29 @@
 		}
 
 	h1 {
-		font-size: 1.85em;
+		font-size: 1.4em;
 		letter-spacing: 0.22em;
 		margin: 0 0 0.525em 0;
 	}
 
 	h2 {
-		font-size: 1.25em;
+		font-size: 0.8em;
 	}
 
 	h3 {
-		font-size: 1em;
+		font-size: 0.4em;
 	}
 
 	h4 {
-		font-size: 1em;
+		font-size: 0.4em;
 	}
 
 	h5 {
-		font-size: 1em;
+		font-size: 0.4em;
 	}
 
 	h6 {
-		font-size: 1em;
+		font-size: 0.4em;
 	}
 
 	@media screen and (max-width: 480px) {
@@ -264,7 +264,7 @@
 	label {
 		color: #313f47;
 		display: block;
-		font-size: 0.9em;
+		font-size: 0.5em;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -343,7 +343,7 @@
 	input[type="password"],
 	input[type="email"],
 	select {
-		height: 2.75em;
+		height: 2.0em;
 	}
 
 	textarea {
@@ -704,11 +704,11 @@
 		position: relative;
 		max-width: 100%;
 		min-width: 27em;
-		padding: 4.5em 3em 3em 3em ;
-		background: #ffffff;
+		padding: 4.5em 3em 1em 3em ;
+		background: rgba(255,255,0,0);
 		border-radius: 4px;
 		cursor: default;
-		opacity: 0.95;
+		opacity: 0.85;
 		text-align: center;
 		-moz-transform-origin: 50% 50%;
 		-webkit-transform-origin: 50% 50%;
@@ -724,6 +724,10 @@
 		transition: opacity 1s ease, transform 1s ease;
 	}
 
+	#main span {
+		opacity: 0.95;
+	}
+
 		#main .avatar {
 			position: relative;
 			display: block;
@@ -734,7 +738,7 @@
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em #ffffff;
+				box-shadow: 0 0 0 0.1em #ffffff;
 			}
 
 			#main .avatar:before {
