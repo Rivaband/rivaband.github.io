@@ -38,7 +38,7 @@ jQuery(function ($) {
                 "track": 4,
                 "name": "On a Beach",
                 "length": "03:03",
-                "file": "04_On_A_Beach"
+                "file": "04_On_a_Beach"
             }, {
                 "track": 5,
                 "name": "Holy Day",
@@ -67,7 +67,7 @@ jQuery(function ($) {
             }, {
                 "track": 10,
                 "name": "Africa (In Flagranti Remix)",
-                "length": "03:29",
+                "length": "05:22",
                 "file": "10_Africa_In_Flagranti Remix"
             }],
             trackCount = tracks.length,
