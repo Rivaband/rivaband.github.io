@@ -38,7 +38,7 @@ jQuery(function ($) {
                 "track": 4,
                 "name": "On a Beach",
                 "length": "03:03",
-                "file": "04_On_a_Beach"
+                "file": "04_On_A_Beach"
             }, {
                 "track": 5,
                 "name": "Holy Day",
