@@ -17,7 +17,7 @@
     	<meta property="og:image" content="http://rivaband.com/images/lips.png">
 		<meta property="og:title" content="RIVA" />
 		<meta property="og:description" content="Sandy warm vocal surfaces where colorful tropical rhythms glide alongside groovy basslines and vintage reverberating guitars" />
-		
+
 		<meta name="keywords" content="riva, music, sea, soul, pop, milan, tropical">
 		<meta name="format-detection" content="telephone=no">
 		<meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1.0">
@@ -31,6 +31,23 @@
 	</head>
 
 	<body class="is-loading">
+		<script>
+			  window.fbAsyncInit = function() {
+			    FB.init({
+			      appId      : '661350320705407',
+			      xfbml      : true,
+			      version    : 'v2.8'
+			    });
+			  };
+
+			  (function(d, s, id){
+			     var js, fjs = d.getElementsByTagName(s)[0];
+			     if (d.getElementById(id)) {return;}
+			     js = d.createElement(s); js.id = id;
+			     js.src = "//connect.facebook.net/en_US/sdk.js";
+			     fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));
+		</script>
 
 	<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
 		<video src="assets/video/plant.mov" type="video/mp4" height="100%" autoplay loop id="bgvid"></video>
