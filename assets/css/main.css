@@ -169,11 +169,12 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: #005e9f;
 		}
 
 	strong, b {
-		color: #f3f3f3;
+		color: #fff281;
+		font-style: bold;
 	}
 
 	em, i {
@@ -216,7 +217,7 @@
 
 	h5 {
 		font-size: 1.4em;
-		color: #005e9f !important;
+		color: #fff281 !important;
 	}
 
 	h6 {
@@ -638,8 +639,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #ff7496;
-			color: #ff7496 !important;
+			border-color: #005e9f;
+			color: #005e9f !important;
 		}
 
 		input[type="submit"].icon,
