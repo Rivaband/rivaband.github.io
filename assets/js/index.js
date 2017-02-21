@@ -21,54 +21,49 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "Seaplanes",
-                "length": "02:35",
-                "file": "01_Seaplanes"
+                "name": "Hit The Wave",
+                "length": "03:18",
+                "file": "01 Hit The Wave"
             }, {
                 "track": 2,
-                "name": "Africa",
-                "length": "03:19",
-                "file": "02_Africa"
+                "name": "Seaplanes",
+                "length": "02:39",
+                "file": "02 Seaplanes"
             }, {
                 "track": 3,
-                "name": "Hit The Wave",
-                "length": "03:29",
-                "file": "03_Hit_The_Wave"
+                "name": "Africa",
+                "length": "03:16",
+                "file": "03 Africa"
             }, {
                 "track": 4,
                 "name": "On a Beach",
-                "length": "03:03",
-                "file": "04_On_A_Beach"
+                "length": "02:59",
+                "file": "04 On A Beach"
             }, {
                 "track": 5,
                 "name": "Holy Day",
-                "length": "03:10",
-                "file": "05_Holy_Day"
+                "length": "03:07",
+                "file": "05 Holy Day"
             }, {
-                "track": 6,
-                "name": "Mary",
-                "length": "03:05",
-                "file": "06_Mary"
+               "track": 6,
+                "name": "Riva",
+                "length": "02:19",
+                "file": "06 Riva" 
             }, {
                 "track": 7,
                 "name": "Coral",
-                "length": "03:35",
-                "file": "07_Coral"
-            }, {
+                "length": "03:32",
+                "file": "07 Coral"
+            }, {   
                 "track": 8,
-                "name": "Seventeen",
-                "length": "03:52",
-                "file": "08_Seventeen"
+                "name": "Mary",
+                "length": "02:59",
+                "file": "08 Mary"
             }, {
                 "track": 9,
-                "name": "Aquarama",
-                "length": "02:27",
-                "file": "09_Aquarama"
-            }, {
-                "track": 10,
-                "name": "Africa (In Flagranti Remix)",
-                "length": "05:22",
-                "file": "10_Africa_In_Flagranti Remix"
+                "name": "Seventeen",
+                "length": "03:53",
+                "file": "09 Seventeen"
             }],
             trackCount = tracks.length,
             npAction = $('#npAction'),
