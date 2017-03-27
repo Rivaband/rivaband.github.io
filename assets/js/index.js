@@ -46,9 +46,9 @@ jQuery(function ($) {
                 "file": "05 Holy Day"
             }, {
                "track": 6,
-                "name": "Riva",
+                "name": "Aquarama",
                 "length": "02:19",
-                "file": "06 Riva" 
+                "file": "06 Aquarama" 
             }, {
                 "track": 7,
                 "name": "Coral",
