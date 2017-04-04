@@ -250,11 +250,7 @@
 		margin: 3em 0;
 	}
 
-	#message {
-		max-width: 480px;
-		padding: 10px;
-		background-color: rgba(29,29,28,0.5);
-	}
+
 
 /* Form */
 
@@ -731,6 +727,17 @@
 		-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 		transition: opacity 1s ease, transform 1s ease;
+	}
+
+	#message {
+		max-width: 480px;
+		margin: auto;
+		padding: 10px;
+		background-color: rgba(29,29,28,0.5);
+	}
+
+	.fb-like {
+		margin: 10px;
 	}
 
 	#main span {
