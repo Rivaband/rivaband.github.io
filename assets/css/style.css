@@ -114,6 +114,10 @@ div.copytext p {
 	color:#333;
 }
 
+em {
+	font-weight: 500;
+}
+
 /* Images
 ================================================== */
 img.title {
