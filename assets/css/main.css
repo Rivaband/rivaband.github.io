@@ -294,7 +294,7 @@ div .contact-form{
 		appearance: none;
 		border-radius: 4px;
 		border: solid 1px #c8cccf;
-		color: inherit;
+		color: #616f77;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
@@ -381,7 +381,7 @@ div .contact-form{
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #414f57;
+			color: #616f77;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -436,27 +436,27 @@ div .contact-form{
 	}
 
 	::-webkit-input-placeholder {
-		color: #616f77 !important;
+		color: #313f47 !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #616f77 !important;
+		color: #313f47 !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #616f77 !important;
+		color: #313f47 !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #616f77 !important;
+		color: #313f47 !important;
 		opacity: 1.0;
 	}
 
 	.formerize-placeholder {
-		color: #616f77 !important;
+		color: #313f47 !important;
 		opacity: 1.0;
 	}
 
