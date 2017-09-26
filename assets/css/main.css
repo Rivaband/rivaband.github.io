@@ -843,6 +843,13 @@ div .contact-form{
 					border-left: 0;
 				}
 
+	img.labels {
+		/*background-color: red;*/
+		margin: auto;
+		margin: 10px 26px;
+		height: 20%;
+	}
+
 /* Wrapper */
 
 	#wrapper {
@@ -969,5 +976,7 @@ div .contact-form{
 		background-position: center center;
 	}
 }
+
+
 
 

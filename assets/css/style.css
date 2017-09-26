@@ -126,6 +126,18 @@ img.title {
 	width: 100%;
 }
 
+img.labels {
+	/*background-color: red;*/
+	margin: auto;
+	margin: 10px 26px;
+	height: 20%;
+}
+
+.label-wrapper {
+	/*width: 60%;*/
+}
+
+
 /* Links
 ================================================== */
 
