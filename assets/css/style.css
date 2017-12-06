@@ -193,7 +193,7 @@ transition:all 100ms ease;
 
 /* Default / Desktop / Firefox */
 audio { margin:0 15px 0 14px; width:670px; }
-#mainwrap { /* add box-shadow or other styles here */ }
+#mainwrap { margin:0 auto; }
 #audiowrap { background-color:#231F20; margin:0 auto; border-top-left-radius: 10px; border-top-right-radius: 10px; }
 #plwrap { margin:0 auto; }
 #tracks { min-height:65px; position:relative; text-align:center; text-decoration:none; top:13px; }
