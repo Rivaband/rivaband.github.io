@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: http://aquaramamusic.com/private.html
+Disallow: http://aquaramamusic.com/privato.html
