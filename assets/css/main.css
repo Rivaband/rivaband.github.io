@@ -732,7 +732,7 @@ div .contact-form{
 
 /* Main */
 
-	#main, #about {
+	#main {
 		position: relative;
 		max-width: 100%;
 		min-width: 27em;
