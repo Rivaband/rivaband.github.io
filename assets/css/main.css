@@ -890,6 +890,14 @@ div .contact-form{
 	    color: #fffded;
 	    text-align: left;
 	}
+	.tour-siae-info a {
+		font-size: 9px;
+	    font-weight: 200;
+	    line-height: 1px;
+	    margin: 0 0 10px 0;
+	    color: #e6314c;
+	    text-align: left;
+	}
 
 /* Contact */
 
