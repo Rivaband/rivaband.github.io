@@ -744,10 +744,11 @@ div .contact-form{
 		min-width: 27em;
 		padding: 4.5em 3em 1em 3em ;
 		/*background: rgba(255,255,0,0);*/
-		background-color: #e6314c;
+		/*background-color: #e6314c;*/
+		color: #fffded;;
 		border-radius: 4px;
 		cursor: default;
-		opacity: 0.85;
+		opacity: 0.9;
 		text-align: center;
 		-moz-transform-origin: 50% 50%;
 		-webkit-transform-origin: 50% 50%;
@@ -821,7 +822,8 @@ div .contact-form{
 		min-width: 27em;
 		padding: 4.5em 3em 1em 3em ;
 		/*background: rgba(255,255,0,0);*/
-		background-color: #fff281;
+		/*background-color: #fff281;*/
+		color: #fffded;;
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.85;
@@ -836,7 +838,8 @@ div .contact-form{
 		min-width: 27em;
 		padding: 4.5em 3em 1em 3em ;
 		/*background: rgba(255,255,0,0);*/
-		background-color: #3fada8;
+		/*background-color: #3fada8;*/
+		color: #fffded;
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.85;
@@ -857,19 +860,19 @@ div .contact-form{
 	    width: 120px;
 	    height: 100px;
 	    text-align: center;
-	    color: #050505;
+	    color: #fff281;
 	}
 	
 	.tour-item:hover .tour-item-date a {
 	    background-color: #242423;
-	    color: #CFDBD5;
+	    color: #005e9f;
 	}
 	
 	.tour-item-title h3 {
 	    font-size: 15px;
 	    font-weight: 200;
 	    margin: 0 0 10px 0;
-	    color: #050505;
+	    color: #fff281;
 	    text-align: left;
 	}
 	
@@ -896,9 +899,10 @@ div .contact-form{
 		min-width: 27em;
 		padding: 4.5em 3em 1em 3em ;
 		/*background: rgba(255,255,0,0);*/
-		background-color: #005e9f	;
+		/*background-color: #005e9f	;*/
 		border-radius: 4px;
 		cursor: default;
+		color: #fffded;
 		opacity: 0.85;
 		text-align: center;
 	}
