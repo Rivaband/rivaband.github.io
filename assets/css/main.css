@@ -814,6 +814,22 @@ div .contact-form{
 			transform: rotateX(15deg);
 		}
 
+/* News */
+	
+	#news {
+		position: relative;
+		max-width: 50%;
+		min-width: 27em;
+		padding: 4.5em 3em 1em 3em ;
+		/*background: rgba(255,255,0,0);*/
+		/*background-color: #fff281;*/
+		color: #fffded;;
+		border-radius: 4px;
+		cursor: default;
+		opacity: 0.85;
+		text-align: center;
+	}
+
 /* About */
 	
 	#about {
