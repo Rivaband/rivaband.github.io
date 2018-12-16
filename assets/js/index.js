@@ -21,14 +21,14 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "Hit The Wave",
-                "length": "03:18",
-                "file": "01 Hit The Wave"
+                "name": "Bubbles",
+                "length": "03:00",
+                "file": "Bubbles"
             }, {
                 "track": 2,
-                "name": "Seaplanes",
-                "length": "02:39",
-                "file": "02 Seaplanes"
+                "name": "Brother",
+                "length": "03:45",
+                "file": "Brother"
             }, {
                 "track": 3,
                 "name": "Africa",
