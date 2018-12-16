@@ -29,42 +29,44 @@ jQuery(function ($) {
                 "name": "Brother",
                 "length": "03:45",
                 "file": "Brother"
-            }, {
-                "track": 3,
-                "name": "Africa",
-                "length": "03:16",
-                "file": "03 Africa"
-            }, {
-                "track": 4,
-                "name": "On a Beach",
-                "length": "02:59",
-                "file": "04 On A Beach"
-            }, {
-                "track": 5,
-                "name": "Holy Day",
-                "length": "03:07",
-                "file": "05 Holy Day"
-            }, {
-               "track": 6,
-                "name": "Aquarama",
-                "length": "02:19",
-                "file": "06 Aquarama" 
-            }, {
-                "track": 7,
-                "name": "Coral",
-                "length": "03:32",
-                "file": "07 Coral"
-            }, {   
-                "track": 8,
-                "name": "Mary",
-                "length": "02:59",
-                "file": "08 Mary"
-            }, {
-                "track": 9,
-                "name": "Seventeen",
-                "length": "03:53",
-                "file": "09 Seventeen"
-            }],
+            }
+            // , {
+            //     "track": 3,
+            //     "name": "Africa",
+            //     "length": "03:16",
+            //     "file": "03 Africa"
+            // }, {
+            //     "track": 4,
+            //     "name": "On a Beach",
+            //     "length": "02:59",
+            //     "file": "04 On A Beach"
+            // }, {
+            //     "track": 5,
+            //     "name": "Holy Day",
+            //     "length": "03:07",
+            //     "file": "05 Holy Day"
+            // }, {
+            //    "track": 6,
+            //     "name": "Aquarama",
+            //     "length": "02:19",
+            //     "file": "06 Aquarama" 
+            // }, {
+            //     "track": 7,
+            //     "name": "Coral",
+            //     "length": "03:32",
+            //     "file": "07 Coral"
+            // }, {   
+            //     "track": 8,
+            //     "name": "Mary",
+            //     "length": "02:59",
+            //     "file": "08 Mary"
+            // }, {
+            //     "track": 9,
+            //     "name": "Seventeen",
+            //     "length": "03:53",
+            //     "file": "09 Seventeen"
+            // }
+            ],
             trackCount = tracks.length,
             npAction = $('#npAction'),
             npTitle = $('#npTitle'),
