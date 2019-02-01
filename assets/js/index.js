@@ -21,15 +21,25 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
+                "name": "Lucky One",
+                "length": "03:15",
+                "file": "Lucky One"
+            }, {
+                "track": 2,
+                "name": "Out Of The Blue",
+                "length": "03:35",
+                "file": "Out Of The Blue"
+            },  {
+                "track": 3,
                 "name": "Bubbles",
                 "length": "03:00",
                 "file": "Bubbles"
-            }, {
-                "track": 2,
+            },   {
+                "track": 4,
                 "name": "Brother",
                 "length": "03:45",
                 "file": "Brother"
-            }
+            } 
             // , {
             //     "track": 3,
             //     "name": "Africa",
