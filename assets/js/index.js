@@ -39,6 +39,11 @@ jQuery(function ($) {
                 "name": "Brother",
                 "length": "03:45",
                 "file": "Brother"
+            },  {
+                "track": 5,
+                "name": "Vietnam (Instrumental)",
+                "length": "03:45",
+                "file": "Vietnam (Instrumental)"
             } 
             // , {
             //     "track": 3,
