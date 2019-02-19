@@ -31,9 +31,9 @@ jQuery(function ($) {
                 "file": "Out Of The Blue"
             },  {
                 "track": 3,
-                "name": "Bubbles",
-                "length": "03:00",
-                "file": "Bubbles"
+                "name": "Bubble-Gun",
+                "length": "03:03",
+                "file": "Bubble-Gun"
             },   {
                 "track": 4,
                 "name": "Brother",
