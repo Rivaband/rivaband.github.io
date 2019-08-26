@@ -22,29 +22,34 @@ jQuery(function ($) {
             tracks = [{
                 "track": 1,
                 "name": "Lucky One",
-                "length": "03:15",
+                "length": "3:18",
                 "file": "Lucky One"
             }, {
                 "track": 2,
-                "name": "Out Of The Blue",
-                "length": "03:35",
-                "file": "Out Of The Blue"
+                "name": "The House Is Burning",
+                "length": "3:29",
+                "file": "The House Is Burning"
             },  {
                 "track": 3,
-                "name": "Bubble-Gun",
-                "length": "03:03",
-                "file": "Bubble-Gun"
+                "name": "Souvenir",
+                "length": "3:47",
+                "file": "Souvenir"
             },   {
                 "track": 4,
-                "name": "Brother",
-                "length": "03:45",
-                "file": "Brother"
+                "name": "Moon Landing",
+                "length": "04:19",
+                "file": "Moon Landing"
             },  {
                 "track": 5,
                 "name": "Vietnam (Instrumental)",
                 "length": "03:45",
                 "file": "Vietnam (Instrumental)"
-            } 
+            },  {
+                "track": 6,
+                "name": "Out Of The Blue",
+                "length": "04:01",
+                "file": "Out Of The Blue"
+            }  
             // , {
             //     "track": 3,
             //     "name": "Africa",
