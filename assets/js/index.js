@@ -49,7 +49,12 @@ jQuery(function ($) {
                 "name": "Out Of The Blue",
                 "length": "04:01",
                 "file": "Out Of The Blue"
-            }  
+            },  {
+                "track": 7,
+                "name": "Summer's Gone",
+                "length": "06:09",
+                "file": "Summer's Gone"
+            }    
             // , {
             //     "track": 3,
             //     "name": "Africa",
