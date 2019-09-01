@@ -126,6 +126,10 @@ img.title {
 	width: 100%;
 }
 
+img#logo {
+	width: 80%;
+}
+
 img.labels {
 	/*background-color: red;*/
 	margin: auto;
