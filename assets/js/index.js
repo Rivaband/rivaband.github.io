@@ -42,7 +42,7 @@ jQuery(function ($) {
             },  {
                 "track": 5,
                 "name": "Vietnam (Instrumental)",
-                "length": "03:45",
+                "length": "02:59",
                 "file": "Vietnam (Instrumental)"
             },  {
                 "track": 6,
@@ -52,7 +52,7 @@ jQuery(function ($) {
             },  {
                 "track": 7,
                 "name": "Summer's Gone",
-                "length": "06:09",
+                "length": "06:20",
                 "file": "Summer's Gone"
             }    
             // , {
