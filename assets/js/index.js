@@ -52,7 +52,7 @@ jQuery(function ($) {
             },  {
                 "track": 7,
                 "name": "Summer's Gone",
-                "length": "06:20",
+                "length": "06:26",
                 "file": "Summer's Gone"
             }    
             // , {
