@@ -21,40 +21,10 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "Lucky One",
-                "length": "3:18",
-                "file": "Lucky One"
-            }, {
-                "track": 2,
-                "name": "The House Is Burning",
-                "length": "3:29",
-                "file": "The House Is Burning"
-            },  {
-                "track": 3,
-                "name": "Souvenir",
-                "length": "3:47",
-                "file": "Souvenir"
-            },   {
-                "track": 4,
-                "name": "Moon Landing",
-                "length": "04:19",
-                "file": "Moon Landing"
-            },  {
-                "track": 5,
-                "name": "Vietnam (Instrumental)",
-                "length": "02:59",
-                "file": "Vietnam (Instrumental)"
-            },  {
-                "track": 6,
-                "name": "Out Of The Blue",
-                "length": "04:01",
-                "file": "Out Of The Blue"
-            },  {
-                "track": 7,
-                "name": "Summer's Gone",
-                "length": "06:26",
-                "file": "Summer's Gone"
-            }    
+                "name": "Anywhere",
+                "length": "4:23",
+                "file": "Anywhere"
+            }
             // , {
             //     "track": 3,
             //     "name": "Africa",
