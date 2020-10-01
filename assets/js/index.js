@@ -25,12 +25,13 @@ jQuery(function ($) {
                 "length": "4:23",
                 "file": "Anywhere"
             }
+            , {
+                "track": 2,
+                "name": "The Mighty Light (Preview)",
+                "length": "00:46",
+                "file": "The Mighty Light"
+            }
             // , {
-            //     "track": 3,
-            //     "name": "Africa",
-            //     "length": "03:16",
-            //     "file": "03 Africa"
-            // }, {
             //     "track": 4,
             //     "name": "On a Beach",
             //     "length": "02:59",
