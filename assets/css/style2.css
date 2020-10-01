@@ -58,9 +58,9 @@ html,body {
 -webkit-font-smoothing:antialiased;
 -webkit-text-size-adjust:100%;
 /*background-color:#111;*/
-color:#C8C7C8;
+color:#CCCCCC;
 font:20px/24px "Yanone Kaffeesatz", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
-font-weight:300;
+font-weight:800;
 padding:5px 0;
 }
 
@@ -75,6 +75,7 @@ body {
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
+		background-image: url("../../images/Aquarama by Cocco 01.jpg")
 	}
 
 * {
@@ -99,6 +100,9 @@ p { font-size:18px; line-height:20px; margin:0 0 2px; }
 	margin: auto;
 }
 */
+div.column {
+	background-color: rgba(20, 20, 20, 0.7);
+}
 div.copytext {
 	width: 80%;
 	margin: auto;
@@ -107,7 +111,7 @@ div.copytext {
 div.copytext p {
 	text-align:left;
 	text-align: justify;
-	font-weight: 300;
+	font-weight: 500;
 }
 
 #footer {
