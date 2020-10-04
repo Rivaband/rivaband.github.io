@@ -31,12 +31,13 @@ jQuery(function ($) {
                 "length": "00:46",
                 "file": "The Mighty Light"
             }
+            , {
+                "track": 3,
+                "name": "Walk Of Shame",
+                "length": "03:25",
+                "file": "Walk Of Shame"
+            }
             // , {
-            //     "track": 4,
-            //     "name": "On a Beach",
-            //     "length": "02:59",
-            //     "file": "04 On A Beach"
-            // }, {
             //     "track": 5,
             //     "name": "Holy Day",
             //     "length": "03:07",
