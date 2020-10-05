@@ -34,7 +34,7 @@ jQuery(function ($) {
             , {
                 "track": 3,
                 "name": "Walk Of Shame",
-                "length": "03:25",
+                "length": "04:22",
                 "file": "Walk Of Shame"
             }
             // , {
