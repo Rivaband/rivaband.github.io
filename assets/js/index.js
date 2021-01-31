@@ -21,22 +21,22 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "Anywhere",
-                "length": "4:23",
-                "file": "Anywhere"
+                "name": "Together (A Better Place To Celebrate)",
+                "length": "4:19",
+                "file": "Together (A Better Place To Celebrate)"
             }
-            , {
-                "track": 2,
-                "name": "The Mighty Light (Preview)",
-                "length": "00:46",
-                "file": "The Mighty Light"
-            }
-            , {
-                "track": 3,
-                "name": "Walk Of Shame",
-                "length": "04:22",
-                "file": "Walk Of Shame"
-            }
+            // , {
+            //     "track": 2,
+            //     "name": "The Mighty Light (Preview)",
+            //     "length": "00:46",
+            //     "file": "The Mighty Light"
+            // }
+            // , {
+            //     "track": 3,
+            //     "name": "Walk Of Shame",
+            //     "length": "04:22",
+            //     "file": "Walk Of Shame"
+            // }
             // , {
             //     "track": 5,
             //     "name": "Holy Day",
