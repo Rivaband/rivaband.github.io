@@ -54,6 +54,26 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 
+		<style>.iframe-container{
+			/*margin: 0 auto;
+			max-width:100%;*/
+			/*width:100%;
+			height:800px;*/
+			}
+			@media only screen and (max-width: 992px) {
+				.iframe-container{
+					width: 100%;
+					height:400px;
+				}
+			}
+			@media only screen and (max-width: 600px) {
+			   .iframe-container{
+					width: 100%;
+					height:500px;
+				}
+			}
+		</style>
+
 	</head>
 
 	<body class="is-loading">
@@ -110,6 +130,9 @@
       					</li>
       					<li class="nav-item">
        						<a class="nav-link" href="#tour">Tour</a>
+      					</li>
+      					<li class="nav-item">
+       						<a class="nav-link" href="#shop">Shop</a>
       					</li>
       					<li class="nav-item">
         					<a class="nav-link" href="#contact">Contact</a>
@@ -212,6 +235,30 @@
 				</div>	
 	
 			</section> -->
+
+			<!-- Shop -->
+
+			<section id="shop">
+				
+				<div class="content-box">
+	
+					<div class="content-title wow animated fadeInDown" data-wow-duration="0.5s" data-wow-delay="0.5s">
+	
+						<h2> Shop </h2>
+						<div class="content-title-underline"></div>
+					</div>
+						
+					<div class="container">
+
+						<iframe class="iframe-container" src="https://aquarama.bandcamp.com/merch" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginwidth="auto" height="800px" width="960px" allowfullscreen></iframe>
+
+							
+	        	        	
+						<div class="row wow animated fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s"></div>
+					</div>
+				</div>	
+	
+			</section>
 
 
 			<!-- Contact -->
