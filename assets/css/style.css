@@ -67,14 +67,15 @@ padding:5px 0;
 body {
 		height: 100%;
 		background-color: #ffffff;
-		background-image: -moz-linear-gradient(180deg, rgba(23, 41, 72, 1) 5%, rgba(86, 108, 160, 1));
+		/*background-image: -moz-linear-gradient(180deg, rgba(23, 41, 72, 1) 5%, rgba(86, 108, 160, 1));
 		background-image: -webkit-linear-gradient(180deg, rgba(23, 41, 72, 1) 5%, rgba(86, 108, 160, 1));
 		background-image: -ms-linear-gradient(180deg, rgba(23, 41, 72, 1) 5%, rgba(86, 108, 160, 1));
-		background-image: linear-gradient(180deg, rgba(23, 41, 72, 1) 5%, rgba(86, 108, 160, 1));
+		background-image: linear-gradient(180deg, rgba(23, 41, 72, 1) 5%, rgba(86, 108, 160, 1));*/
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
+		background-image: url("../../images/Aquarama by Cocco 01.jpg")
 	}
 
 * {
