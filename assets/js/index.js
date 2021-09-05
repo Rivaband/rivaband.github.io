@@ -21,9 +21,9 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "Together (A Better Place To Celebrate)",
-                "length": "4:19",
-                "file": "Together (A Better Place To Celebrate)"
+                "name": "Tsunami",
+                "length": "4:30",
+                "file": "Aquarama - Tsunami"
             }
             // , {
             //     "track": 2,
